@@ -3,9 +3,6 @@
   "version": "0.0.5",
   "description": "Fountainhead suite: bcode, bigjq, tna, bitqueryd, bitsocketd, and slp variants",
   "main": "index.js",
-  "scripts": {
-    "postinstall": "./run.sh"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
