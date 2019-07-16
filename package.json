@@ -9,20 +9,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bitcoind-rpc": "^0.8.1",
+    "bitcore-lib-cash": "^8.3.4",
     "traverse": "^0.6.6",
     "child_process": "^1.0.2",
     "node-jq": "^1.6.0",
-    "dotenv": "^6.0.0",
-    "mongodb": "^3.1.4",
+    "dotenv": "^6.2.0",
+    "mongodb": "^3.2.7",
     "json-pointer": "^0.6.0",
     "bignumber.js": "^8.1.1",
-    "bitcore-lib-cash": "^0.19.0",
     "cors": "^2.8.4",
     "express": "^4.16.4",
     "ip": "^1.1.5",
-    "mingo": "^2.2.4",
-    "zeromq": "^5.1.0",
-    "bitcoind-rpc": "^0.7.2"
+    "mingo": "^2.3.5",
+    "zeromq": "^5.1.0"
   },
   "devDependencies": {
     "eslint": "^5.7.0",
